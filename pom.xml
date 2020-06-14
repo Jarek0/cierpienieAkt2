@@ -63,7 +63,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>${main.class}</mainClass>
+                            <mainClass>desktop.gui.app.GeometryCalculatorApp</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
